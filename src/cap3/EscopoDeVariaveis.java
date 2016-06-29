@@ -75,6 +75,8 @@ public class EscopoDeVariaveis {
 		    //int a = 10; compile error
 	}
 	 
+	 
+	 
 	 //shadowing
 	 public static class Test{
 	    static int x = 0;
