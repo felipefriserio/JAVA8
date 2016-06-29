@@ -25,7 +25,7 @@ public class EstruturaDeClasse {
 	   multiple line
 	   comment
 	  */
-	  class /*middleoflinecomment*/ Person2{
+	  class /*middle of line comment*/ Person2{
 		     /**
 		     *  JavaDoc, starts with slash, then two *
 		     *  and it is multiple line
