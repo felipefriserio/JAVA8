@@ -14,7 +14,7 @@ public class EstruturaDeClasse {
 	 *   Classes do default package nao podem ser importadas para uso em outros pacotes. 
 	 * 
 	 * */
-	//nopackage=>package"default"
+	//no package => package "default"
 	  class Person{
 		  
 	  }
@@ -36,12 +36,12 @@ public class EstruturaDeClasse {
 	  
 	  
 	  //CLASSE
-	  /* classe eÌ� a forma no Java onde de nimos os atributos 
+	  /* classe eh a forma no Java onde definimos os atributos 
 	   * e comportamentos de um objeto*/
 	  class Person3{}
 	  
-	  /*Dentro de uma classe, podemos ter variaÌ�veis, meÌ�todos e construtores. 
-	  Essas estruturas saÌƒo chamadas de membros da classe:*/
+	  /*Dentro de uma classe, podemos ter variaveis, metodos e construtores. 
+	  Essas estruturas sao chamadas de membros da classe:*/
 	  class Person4{ 
 		  String firstname;
 	      String lastname;

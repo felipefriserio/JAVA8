@@ -32,7 +32,7 @@ public class EscopoDeVariaveis {
 	 }
 	////////////////////////////////////////////////////////////////////
 	 
-	// Variáveis de instância
+	// Variaveis de instancia
 	 /*atributos de objetos*/
 	 class Teste{
 		 String nome;
@@ -43,8 +43,8 @@ public class EscopoDeVariaveis {
 	 }
 	 
 	////////////////////////////////////////////////////////////////////
-	// Variáveis estaticas
-	/* Podemos declarar variáveis que são compartilhadas por todas as instancias 
+	// Variaveis estaticas
+	/* Podemos declarar variaveis que sao compartilhadas por todas as instancias 
 	 * de uma classe usando a palavra chave static*/
 	 
 	 class Person {
@@ -52,10 +52,10 @@ public class EscopoDeVariaveis {
 		   
 		   //  final e static final
 		   /* final int i;  
-		    * 	terá um valor constante para a instância em que for declarado
+		    * 	tera um valor constante para a instancia em que for declarado
 		    * 
 		    * static final int i;
-		    * 	terá um valor constante até o termino da execução da VM
+		    * 	tera um valor constante ate o termino da execucao da VM
 		    * */
 		   
 		//  static
@@ -68,7 +68,7 @@ public class EscopoDeVariaveis {
 	}
 	 
 	 
-	// Variáveis com o mesmo nome
+	// Variaveis com o mesmo nome
 	/* */
 	 public void method() {
 		    int a = 0;
