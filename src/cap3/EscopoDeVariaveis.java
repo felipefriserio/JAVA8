@@ -89,4 +89,7 @@ public class EscopoDeVariaveis {
 		        this.y = y; // instance (this) explicit access
 		} 
 	 }
+	 
+	 
+	 // TESTE TIOZAO
 }
