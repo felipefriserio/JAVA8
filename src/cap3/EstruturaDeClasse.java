@@ -36,12 +36,12 @@ public class EstruturaDeClasse {
 	  
 	  
 	  //CLASSE
-	  /* classe é a forma no Java onde de nimos os atributos 
+	  /* classe eÌ� a forma no Java onde de nimos os atributos 
 	   * e comportamentos de um objeto*/
 	  class Person3{}
 	  
-	  /*Dentro de uma classe, podemos ter variáveis, métodos e construtores. 
-	  Essas estruturas são chamadas de membros da classe:*/
+	  /*Dentro de uma classe, podemos ter variaÌ�veis, meÌ�todos e construtores. 
+	  Essas estruturas saÌƒo chamadas de membros da classe:*/
 	  class Person4{ 
 		  String firstname;
 	      String lastname;
@@ -54,8 +54,6 @@ public class EstruturaDeClasse {
 	          return this.firstname + this.lastname;
 	      } 
 	  }
-	 
-	 
-	 
+	  
 	 
 }
