@@ -33,8 +33,6 @@ public class ExecutaveisLinhaDeComando {
 	 * */
 	
 	
-	
-	
 	/*
 	 * Para compilar uma classe java pelo CMD.
 	 * O compilamento eh feito pelo JDK. A Leitura do .class, do bytecode gerado pelo compilamento eh feito pela JVM
@@ -68,9 +66,4 @@ public class ExecutaveisLinhaDeComando {
 	 * 	} 
 	 * 
 	 * */
-	
-	
-	
-	
-	
 }
