@@ -1,4 +1,4 @@
-package cap3;
+package cap3OBasicoDeJava;
 
 public class ExecutaveisLinhaDeComando {
 

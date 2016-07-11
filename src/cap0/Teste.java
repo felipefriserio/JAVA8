@@ -1,4 +1,4 @@
-package cap3OBasicoDeJava;
+package cap0;
 
 import java.io.File;
 import java.util.*;
@@ -11,9 +11,9 @@ class Atencao{
 	 /* Eh possivel definir mais de uma classe interface em um mesmo arquivo java. Regras:
 	  * 
 	  * -Podemserde nidosemqualquerordem;
-		• Se existir alguma classe/interface pública, o nome do arquivo deve ser o mesmo dessa classe/interface;
-		• So pode existir uma classe/interface pública por arquivo;
-		• Se não houver nenhuma classe/interface pública, o arquivo pode ter qualquer nome.
+		• Se existir alguma classe/interface pu�?blica, o nome do arquivo deve ser o mesmo dessa classe/interface;
+		• So pode existir uma classe/interface pu�?blica por arquivo;
+		• Se não houver nenhuma classe/interface pu�?blica, o arquivo pode ter qualquer nome.
 	  * */
 	  
 	  // Regras de imports e pacotes 
