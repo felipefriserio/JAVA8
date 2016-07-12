@@ -151,5 +151,20 @@ public class DeclararEIniciarVariaveis {
 		
 		float f = 1E4F;
 		System.out.println(f); // 10000.0
+		
+		
+		/*								4.1
+		 * 1-D;   OK
+		 * 2-a;   OK 
+		 * 3-D;   OK
+		 * 4-F;   OK
+		 * 5-B;   OK
+		 * 6-B;   OK
+		 * 7-D;   ERRO - A
+		 * 8-C;   OK 
+		 * 9-E;   OK
+		 * 10-D;  OK
+		 * */
+		
 	}
 }
