@@ -85,4 +85,25 @@ public class StringBuilderEStringBuffer {
 		
 	}
 	
+	/*   	exercicios 4.6     
+	 
+	 1 - C / ERRO - E
+	 		
+	 		0 1 2 3 4 5 6 7 8
+	 		G U I L H E R M E
+	 		    ^ ^ 
+	 			| |
+
+	 		 inicia na 2 posicao e termina na terceira, mas nao exclui a 3.	
+	 		
+	 		retira somente o i
+	 		sb.append("guilherme").delete(2,3);  // gulherme
+	 		
+	 2 - B / ERRO - A
+	 	
+	 		StringBuilder sb = new StringBuilder("guilherme");
+			System.out.println(sb.indexOf("e") + sb.lastIndexOf("e"));
+			System.out.println(sb.indexOf("k") + sb.lastIndexOf("k"));  // retorna -1 quando nao encontra 
+	 */
+	
 }
