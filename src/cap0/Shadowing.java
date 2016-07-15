@@ -1,4 +1,4 @@
-package cap3OBasicoDeJava;
+package cap0;
 
 public class Shadowing {
 	 public int x = 0;
